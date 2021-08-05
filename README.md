@@ -9,3 +9,5 @@ This project is built with html, css and vanilla Javascript. This is part of my 
 
 # Live Demo
 http://covid-19-today.infinityfreeapp.com/
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
